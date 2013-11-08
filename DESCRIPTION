@@ -7,6 +7,8 @@ Author: Kirill Müller
 Maintainer: Kirill Müller <kirill.mueller@ivt.baug.ethz.ch>
 Description: Convenience functions that simplify coding and maintenance
 License: GPL-3
+Suggests:
+    testthat
 Collate:
     'sweetnR-package.R'
     't.R'
