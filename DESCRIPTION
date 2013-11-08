@@ -1,4 +1,4 @@
-Package: sugaR
+Package: sweetnR
 Type: Package
 Title: Syntactic sugar for R
 Version: 0.0-1
@@ -8,4 +8,4 @@ Maintainer: Kirill Müller <kirill.mueller@ivt.baug.ethz.ch>
 Description: Convenience functions that simplify coding and maintenance
 License: GPL-3
 Collate:
-    'sugaR-package.R'
+    'sweetnR-package.R'
