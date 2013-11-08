@@ -1,3 +1,3 @@
 #sweetnR
 
-Some syntactic sugar for R.
+Some syntactic sweetness for R.

@@ -1,4 +1,4 @@
-#' Syntactic sugar for R
+#' Syntactic sweetness for R
 #' 
 #' Convenience functions that simplify coding and maintenance
 #' 
