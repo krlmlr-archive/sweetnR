@@ -1,4 +1,4 @@
 library(testthat)
-library(Template)
+library(sweetnR)
 
-test_package("Template")
+test_package("sweetnR")
