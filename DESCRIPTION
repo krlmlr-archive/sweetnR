@@ -2,8 +2,8 @@ Package: sweetnR
 Type: Package
 Encoding: UTF-8
 Title: Syntactic sweetness for R
-Version: 0.0-1
-Date: 2013-07-09
+Version: 0.0-2
+Date: 2013-11-08
 Author: Kirill Müller
 Maintainer: Kirill Müller <kirill.mueller@ivt.baug.ethz.ch>
 Description: Convenience functions that simplify coding and maintenance

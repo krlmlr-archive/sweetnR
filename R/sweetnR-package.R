@@ -5,8 +5,8 @@
 #' \tabular{ll}{
 #'   Package: \tab sweetnR\cr
 #'   Type: \tab Package\cr
-#'   Version: \tab 0.0-1\cr
-#'   Date: \tab 2013-07-09\cr
+#'   Version: \tab 0.0-2\cr
+#'   Date: \tab 2013-11-08\cr
 #'   License: \tab GPL-3\cr
 #' }
 #' 
