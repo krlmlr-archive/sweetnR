@@ -2,34 +2,26 @@
 \name{sweetnR-package}
 \alias{sweetnR}
 \alias{sweetnR-package}
-\title{What the package does (short line) ~~ package title ~~}
+\title{Syntactic sweetness for R}
 \description{
-  More about what it does (maybe more than one line) ~~ A
-  concise (1-5 lines) description of the package ~~
+  Convenience functions that simplify coding and
+  maintenance
 }
 \details{
   \tabular{ll}{ Package: \tab sweetnR\cr Type: \tab
-  Package\cr Version: \tab 1.0\cr Date: \tab 2013-07-09\cr
-  License: \tab What license is it under?\cr } ~~ An
-  overview of how to use the package, including the most
-  important functions ~~
+  Package\cr Version: \tab 0.0-1\cr Date: \tab
+  2013-07-09\cr License: \tab GPL-3\cr }
 }
 \examples{
 # ~~ simple examples of the most important functions ~~
 }
 \author{
-  Who wrote it
+  Kirill Müller <kirill.mueller@ivt.baug.ethz.ch>
 
-  Maintainer: Who to complain to <yourfault@somewhere.net>
-  ~~ The author and/or maintainer of the package ~~
+  Submit bug reports to:
+  \url{https://github.com/krlmlr/sweetnR/issues}
 }
-\references{
-  ~~ Literature or other references for background
-  information ~~
-}
-\seealso{
-  ~~ Optional links to other man pages, e.g. ~~ ~~
-  <pkg>:<pkg>-package ~~
-}
-\keyword{package}
+\keyword{coding}
+\keyword{sugar,}
+\keyword{syntax,}
 
