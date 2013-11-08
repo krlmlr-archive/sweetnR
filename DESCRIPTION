@@ -9,3 +9,4 @@ Description: Convenience functions that simplify coding and maintenance
 License: GPL-3
 Collate:
     'sweetnR-package.R'
+    't.R'
